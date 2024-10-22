@@ -12,3 +12,6 @@ sudo ./install_awx.sh
 
 ## 4. Open WebUI
 https://<your-server-ip>:37727/
+`https://<your-server-ip>:37727/`
+https://&lt;your-server-ip&gt;:37727/
+
